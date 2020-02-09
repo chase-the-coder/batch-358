@@ -58,7 +58,7 @@ puts hash_2 == hash_3
 # 5 ) Finally, I want you to read the values from each key. You can use a loop,
 # or you can do it manually, like:
 
-# hash_1[:name]
+p hash_1.values
 # hash_1[:age]
 # etc...
 
